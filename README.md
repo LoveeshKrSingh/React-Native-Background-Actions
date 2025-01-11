@@ -198,14 +198,4 @@ await BackgroundService.start(veryIntensiveTask, options);
 
 ```
 
-## Maintainers
 
-* [Rapsssito](https://github.com/rapsssito) [[Support me :heart:](https://github.com/sponsors/Rapsssito)]
-
-## Acknowledgments
-
-* iOS part originally forked from [react-native-background-timer](https://github.com/ocetnik/react-native-background-timer)
-
-## License
-
-The library is released under the MIT license. For more information see [`LICENSE`](/LICENSE).
